@@ -9,7 +9,7 @@
 
 ## :smile: Stay smiling and :book: keep coding.
 
-🚀 Full-Stack Engineer :punch: JavaScript, PHP, Python
+🚀 Full-Stack Engineer :punch: JavaScript, PHP, Python, Java
 <br/><br/>
 
 <p align="left">
