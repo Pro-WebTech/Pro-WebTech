@@ -3,8 +3,8 @@
 <meta name="github"/>
 <meta name="full-stack"/>
 
-<img align="" alt="awesome-github-profile" src="https://github-readme-stats.vercel.app/api?username=Super-Smile&layout=demo&border_radius=20px&show_icons=true&theme=" />
 <img align="right" alt="awesome-github-profile" src="https://github-readme-stats.vercel.app/api?username=Super-Smile&layout=demo&border_radius=20px&show_icons=true&theme=" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Hello. 
 
