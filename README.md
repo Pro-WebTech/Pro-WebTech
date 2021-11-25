@@ -37,7 +37,7 @@
  <span>...</span>
 </p>
 <br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Super-Smile&langs_count=8&layout=compact&card_width=495px&border_radius=20px&show_icons=true&theme=" alt="beautiful-github-profile-hi-with-handshake"/>
+<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Super-Smile&langs_count=8&layout=compact&card_width=495px&border_radius=20px&show_icons=true&theme=" alt="beautiful-github-profile-hi-with-handshake"/>
 
 
 ## :fire: Let's work harder to build a beautiful :earth_americas:.
