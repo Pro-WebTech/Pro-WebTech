@@ -3,7 +3,7 @@
 <meta name="github"/>
 <meta name="full-stack"/>
 
-<img align="right" alt="awesome-github-profile" src="https://github-readme-stats.vercel.app/api?username=Super-Smile&layout=demo&border_radius=20px&show_icons=true&theme=" />
+<img align="" alt="awesome-github-profile" src="https://github-readme-stats.vercel.app/api?username=Super-Smile&layout=demo&border_radius=20px&show_icons=true&theme=" />
 <img align="right" alt="awesome-github-profile" src="https://github-readme-stats.vercel.app/api?username=Super-Smile&layout=demo&border_radius=20px&show_icons=true&theme=" />
 
 # Hello. 
@@ -37,7 +37,7 @@
  <span>...</span>
 </p>
 <br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Super-Smile&layout=compact&card_width=495px&border_radius=20px&show_icons=true&theme=" alt="beautiful-github-profile-hi-with-handshake"/>
+<img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Super-Smile&layout=compact&card_width=495px&border_radius=20px&show_icons=true&theme=" alt="beautiful-github-profile-hi-with-handshake"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Super-Smile&layout=compact&card_width=495px&border_radius=20px&show_icons=true&theme=" alt="beautiful-github-profile-hi-with-handshake"/>
 
 ## :fire: Let's work harder to build a beautiful :earth_americas:.
