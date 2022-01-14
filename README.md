@@ -14,8 +14,10 @@
 <br/><br/>
 
 <p align="left">
- <img src="https://w7.pngwing.com/pngs/895/275/png-transparent-solidity-ethereum-smart-contract-blockchain-cryptocurrency-blockchain-angle-triangle-logo.png" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/> 
+ <img src="https://iconape.com/wp-content/png_logo_vector/solidity.png" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/> 
+ <img src="https://www.svgrepo.com/show/353715/ethereum.svg" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/> 
+ <img src="https://cryptologos.cc/logos/bitcoin-cash-bch-logo.svg?v=018" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/> 
+ <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=018" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/> 
  <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="javascript-github-profile-awesome-beautiful" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript-github-profile-awesome-beautiful" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs-github-profile-awesome-beautiful" width="40" height="40"/> 
@@ -35,6 +37,7 @@
  <img src="https://www.vectorlogo.zone/logos/ghost/ghost-icon.svg" alt="ghost-github-profile-awesome-beautiful" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby-github-profile-awesome-beautiful" width="40" height="40"/>
  <img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/_assets/img/icons/jquery.png" alt="jquery-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;">
+ <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/> 
  <span>...</span>
 </p>
 <br/>
