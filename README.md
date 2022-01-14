@@ -14,6 +14,7 @@
 <br/><br/>
 
 <p align="left">
+ <img src="https://w7.pngwing.com/pngs/895/275/png-transparent-solidity-ethereum-smart-contract-blockchain-cryptocurrency-blockchain-angle-triangle-logo.png" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/> 
  <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="javascript-github-profile-awesome-beautiful" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript-github-profile-awesome-beautiful" width="40" height="40"/> 
