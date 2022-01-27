@@ -4,6 +4,7 @@
 <meta name="full-stack"/>
 
 <img align="right" alt="awesome-github-profile" src="https://github-readme-stats.vercel.app/api?username=Super-Smile&layout=demo&border_radius=20px&show_icons=true&theme=" />
+<img align="right" alt="awesome-github-profile" src="https://github-readme-stats.vercel.app/api?username=Super-Smile&layout=demo&border_radius=20px&show_icons=true&theme=" />
 
 
 # Hello. 
