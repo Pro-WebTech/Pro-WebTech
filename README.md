@@ -18,7 +18,7 @@
  <img src="https://www.svgrepo.com/show/353715/ethereum.svg" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/> 
  <img src="https://cryptologos.cc/logos/bitcoin-cash-bch-logo.svg?v=018" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/> 
  <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=018" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/> 
- <img src="https://cdn.consensys.net/uploads/metamask-1.svg" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/> 
+ <img src="https://www.returngis.net/wp-content/uploads/2019/05/logo-metamask-1.png" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/> 
  <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="javascript-github-profile-awesome-beautiful" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript-github-profile-awesome-beautiful" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs-github-profile-awesome-beautiful" width="40" height="40"/> 
