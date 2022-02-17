@@ -33,7 +33,7 @@
  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws-github-profile-awesome-beautiful" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker-github-profile-awesome-beautiful" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="eslint-github-profile-awesome-beautiful" width="40" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack-github-profile-awesome-beautiful" width="40" height="40"/> 
+ <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack-github-profile-awesome-beautiful" width="40" height="40"/>  
  <img src="https://www.vectorlogo.zone/logos/ghost/ghost-icon.svg" alt="ghost-github-profile-awesome-beautiful" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby-github-profile-awesome-beautiful" width="40" height="40"/>
  <img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/_assets/img/icons/jquery.png" alt="jquery-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;">
