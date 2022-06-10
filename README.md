@@ -48,8 +48,6 @@
  <img src="https://www.theconsolelogs.com/react/redux.svg" alt="redux-github-profile-awesome-beautiful" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git-github-profile-awesome-beautiful" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python-github-profile-awesome-beautiful" width="40" height="40"/> 
- <img src="https://img.icons8.com/color/344/css3.png" alt="css3-github-profile-awesome-beautiful" width="40" height="40"/> 
- <img src="https://img.icons8.com/color/344/html-5.png" alt="html5-github-profile-awesome-beautiful" width="40" height="40"/> 
  <img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/_assets/img/icons/bootstrap.png" alt="bootstrap-github-profile-awesome-beautiful" width="35" height="37" style="visibility: visible;">
  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws-github-profile-awesome-beautiful" width="40" height="40"/>  
  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker-github-profile-awesome-beautiful" width="40" height="40"/> 
