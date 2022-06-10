@@ -17,7 +17,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/naji2329/github-readme-stats">
+  <a href="https://github.com/Super-Smile/github-readme-stats">
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api?username=Super-Smile&count_private=true&show_icons=true&custom_title=Super-Smile's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
