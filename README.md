@@ -27,7 +27,7 @@
   <a href="https://github.com/Super-Smile/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Super-Smile&layout=compact&theme=vision-friendly-dark" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=trusteddev1409&layout=compact&theme=vision-friendly-dark" />
   </a>  
 </p>
 
