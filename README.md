@@ -3,6 +3,18 @@
 <meta name="github"/>
 <meta name="full-stack"/>
 
+
+<h1 align="center">Hi 👋, I'm a Blockchain & Web Full Stack developer.</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naji2329&label=Profile%20views&color=0e75b6&style=flat" alt="naji2329" /> </p>
+
+<p align="center">
+  <a href="https://github.com/naji2329/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="NAJI2329" src="https://github-readme-streak-stats.herokuapp.com/?user=naji2329&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
+
+
 <img align="right" alt="awesome-github-profile" src="https://github-readme-stats.vercel.app/api?username=Super-Smile&layout=demo&border_radius=15px&show_icons=true&theme="/>
 
 # Welcome 
