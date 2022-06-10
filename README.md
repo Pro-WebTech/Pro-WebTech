@@ -1,4 +1,7 @@
 <meta name="awesome-portfolio"/>
+<meta title="awesome-portfolio"/>
+<meta description="awesome-portfolio"/>
+
 <meta name="portfolio"/>
 <meta name="github"/>
 <meta name="full-stack"/>
@@ -10,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/Super-Smile/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="NAJI2329" src="https://github-readme-streak-stats.herokuapp.com/?user=naji2329&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="NAJI2329" src="https://github-readme-streak-stats.herokuapp.com/?user=Super-Smile&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
 
