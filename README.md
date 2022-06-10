@@ -32,9 +32,7 @@
 </p>
 
 
-<img align="right" alt="awesome-github-profile" src="https://github-readme-stats.vercel.app/api?username=trusteddev1409&layout=demo&border_radius=15px&show_icons=true&theme="/>
-
-<p align="left">
+<p align="center">
  <img src="https://iconape.com/wp-content/png_logo_vector/solidity.png" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/> 
  <img src="https://www.svgrepo.com/show/353715/ethereum.svg" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/> 
  <img src="https://cryptologos.cc/logos/bitcoin-cash-bch-logo.svg?v=018" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/> 
