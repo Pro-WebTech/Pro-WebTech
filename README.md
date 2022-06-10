@@ -6,10 +6,10 @@
 
 <h1 align="center">Hi 👋, I'm a Blockchain & Web Full Stack developer.</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naji2329&label=Profile%20views&color=0e75b6&style=flat" alt="naji2329" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Super-Smile&label=Profile%20views&color=0e75b6&style=flat" alt="Super-Smile" /> </p>
 
 <p align="center">
-  <a href="https://github.com/naji2329/github-readme-streak-stats">
+  <a href="https://github.com/Super-Smile/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="NAJI2329" src="https://github-readme-streak-stats.herokuapp.com/?user=naji2329&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
