@@ -13,8 +13,22 @@
 
 <p align="center">
   <a href="https://github.com/Super-Smile/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="NAJI2329" src="https://github-readme-streak-stats.herokuapp.com/?user=Super-Smile&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Super-Smile" src="https://github-readme-streak-stats.herokuapp.com/?user=Super-Smile&theme=monokai-metallian&hide_border=true"/>
   </a>
+</p>
+<p align="center">
+  <a href="https://github.com/naji2329/github-readme-stats">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api?username=Super-Smile&count_private=true&show_icons=true&custom_title=Super-Smile's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
+    />
+   </a>
+
+  <a href="https://github.com/Super-Smile/github-readme-stats">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Super-Smile&layout=compact&theme=vision-friendly-dark" />
+  </a>  
 </p>
 
 
