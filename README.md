@@ -30,11 +30,10 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=trusteddev1409&layout=compact&theme=vision-friendly-dark" />
   </a>  
 </p>
-- 📫 How to reach me </br>
-- <h3 align="left">Touch me anytime, I am Open</h3>
+<h3 align="left">Touch me anytime, I am Open</h3>
 
     Email: supersmile1207@gmail.com </br>
-    Telegram: <a href="https://t.me/zuper_powerr" target="_blank">@zuper_powerr</a> </br>
+    Telegram: <a href="https://t.me/zuper_powerr" target="_blank"> @zuper_powerr </a> </br>
     Skype: live:.cid.a32f7872d1ccef38</br>
     Discord: Super-Smile#3538 </br>
     
