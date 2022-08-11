@@ -36,8 +36,6 @@
 
 > Programming languages.
 <p>
-    <a href="https://github.com/search?q=user%3Asenior-dev-1019+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Asenior-dev-1019+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Asenior-dev-1019+language%3AGo"><img alt="Golang" src="https://img.shields.io/badge/Go-DFDFDF.svg?logo=go&logoColor=blue"></a>
     <a href="https://github.com/search?q=user%3Asenior-dev-1019+language%3Acsharp"><img alt="C#" src="https://img.shields.io/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Asenior-dev-1019+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
