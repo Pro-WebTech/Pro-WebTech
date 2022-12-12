@@ -15,9 +15,12 @@
 
 <p align="center" display="flex">
   <a href="https://www.hackerrank.com/certificates/1d20387fa74b">
-    <img width="32%" src="hacker_js.PNG" />
+    <img width="40%" src="hacker_js.PNG" />
   </a>
    
+  <a href="https://www.hackerrank.com/certificates/ac2d8c948fdb">
+    <img width="40%" src="hacker_css.PNG" />
+  </a>
 </p>
 
 <p align="center">
