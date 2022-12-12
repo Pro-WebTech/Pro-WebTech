@@ -23,6 +23,16 @@
   </a>
 </p>
 
+<p align="center" display="flex">
+  <a href="https://www.hackerrank.com/certificates/b7e5141a4379">
+    <img width="45%" src="hacker_react.png" />
+  </a>
+<!--    
+  <a href="https://www.hackerrank.com/certificates/ac2d8c948fdb">
+    <img width="45%" src="hacker_css.PNG" />
+  </a> -->
+</p>
+
 <p align="center">
   <a href="https://github.com/Super-Smile/github-readme-stats">
     <img
