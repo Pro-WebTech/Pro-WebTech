@@ -6,7 +6,7 @@
 <meta name="github"/>
 <meta name="full-stack"/>
 
-<p align="left" style="font-family: Brush Script MT"> <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="Super-Smile" /> </p>
+<p align="left" style="font-family: Brush Script MT;"> <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="Super-Smile" /> </p>
 <p align="center" display="flex">
   <a href="https://www.hackerrank.com/certificates/b7e5141a4379">
     <img width="45%" src="hacker_react.png" />
@@ -32,14 +32,14 @@
   <a href="https://github.com/Super-Smile/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api?username=Super-Smile&count_private=true&show_icons=true&custom_title=Super-Smile's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
+      src="https://github-readme-stats.vercel.app/api?username=Super-Smile&count_private=true&show_icons=true&custom_title=Super-Smile's%20Github%20Status&hide=issues"
     />
    </a>
 
   <a href="https://github.com/Super-Smile/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Super-Smile&layout=compact&theme=vision-friendly-dark" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Super-Smile&layout=compact" />
   </a>  
 </p>
   
