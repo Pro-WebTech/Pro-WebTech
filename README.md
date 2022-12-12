@@ -16,19 +16,19 @@
   <a href="https://www.hackerrank.com/certificates/b7e5141a4379">
     <img width="45%" src="hacker_react.png" />
   </a>
-<!--    
-  <a href="https://www.hackerrank.com/certificates/ac2d8c948fdb">
-    <img width="45%" src="hacker_css.PNG" />
-  </a> -->
+   <a href="https://www.hackerrank.com/certificates/ae65195ac2b2">
+    <img width="45%" src="hacker_api.png" />
+  </a>
+  
 </p>
 <p align="center" display="flex">
   <a href="https://www.hackerrank.com/certificates/1d20387fa74b">
     <img width="45%" src="hacker_js.PNG" />
   </a>
-   
   <a href="https://www.hackerrank.com/certificates/ac2d8c948fdb">
     <img width="45%" src="hacker_css.PNG" />
   </a>
+  
 </p>
 
 
@@ -48,7 +48,7 @@
   </a>  
 </p>
   
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<!-- <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
 > Programming languages.
 <p>
@@ -101,7 +101,7 @@
     <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
+</p> -->
 
 <br/>
 
