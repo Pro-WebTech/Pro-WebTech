@@ -6,11 +6,6 @@
 <meta name="github"/>
 <meta name="full-stack"/>
 
-<p align="center">
-  <a href="https://github.com/Super-Smile"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Grow%20with%20Super%20Smile;Giving%20You%20Super%20Smile;&font=Satisfy&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
-</p>
-
-
 <p align="left" style="font-family: Brush Script MT"> <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="Super-Smile" /> </p>
 <p align="center" display="flex">
   <a href="https://www.hackerrank.com/certificates/b7e5141a4379">
