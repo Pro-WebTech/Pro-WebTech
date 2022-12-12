@@ -7,7 +7,7 @@
 <meta name="full-stack"/>
 
 <p align="center">
-  <a href="https://github.com/Super-Smile"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Giving%20You%20Super%20Smile;10%2B%20years%20of%20IT%20experience;&font=Satisfy&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/Super-Smile"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Born%20with%20Super%20Smile;Giving%20You%20Super%20Smile;&font=Satisfy&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 
