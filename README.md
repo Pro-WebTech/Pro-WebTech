@@ -9,19 +9,25 @@
 <p align="left" style="font-family: Brush Script MT;"> <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="Super-Smile" /> </p>
 <p align="center" display="flex">
   <a href="https://www.hackerrank.com/certificates/b7e5141a4379">
-    <img width="45%" src="hacker_react.png" />
+    <img width="30%" src="hacker_react.png" />
+  </a>
+  <a href="https://www.hackerrank.com/certificates/d3440ebe068f">
+    <img width="30%" src="hacker_angular.png" />
   </a>
    <a href="https://www.hackerrank.com/certificates/ae65195ac2b2">
-    <img width="45%" src="hacker_api.png" />
+    <img width="30%" src="hacker_api.png" />
   </a>
   
 </p>
 <p align="center" display="flex">
   <a href="https://www.hackerrank.com/certificates/1d20387fa74b">
-    <img width="45%" src="hacker_js.PNG" />
+    <img width="30%" src="hacker_js.PNG" />
+  </a>
+  <a href="https://www.hackerrank.com/certificates/7659741cfb58">
+    <img width="30%" src="hacker_sql.png" />
   </a>
   <a href="https://www.hackerrank.com/certificates/ac2d8c948fdb">
-    <img width="45%" src="hacker_css.PNG" />
+    <img width="30%" src="hacker_css.PNG" />
   </a>
   
 </p>
