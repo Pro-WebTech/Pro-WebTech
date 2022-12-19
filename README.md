@@ -6,12 +6,7 @@
 <meta name="github"/>
 <meta name="full-stack"/>
 
-<p align="center">
-  <a href="https://github.com/Super-Smile"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Grow%20with%20Super%20Smile;Giving%20You%20Super%20Smile;&font=Satisfy&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
-</p>
-
-
-<p align="left" style="font-family: Brush Script MT"> <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="Super-Smile" /> </p>
+<p align="left" style="font-family: Brush Script MT;"> <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="Super-Smile" /> </p>
 <p align="center" display="flex">
   <a href="https://www.hackerrank.com/certificates/b7e5141a4379">
     <img width="45%" src="hacker_react.png" />
@@ -33,24 +28,26 @@
 
 
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Super-Smile/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api?username=Super-Smile&count_private=true&show_icons=true&custom_title=Super-Smile's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
+      src="https://github-readme-stats.vercel.app/api?username=Super-Smile&count_private=true&show_icons=true&custom_title=Super-Smile's%20Github%20Status&hide=issues"
     />
    </a>
 
   <a href="https://github.com/Super-Smile/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Super-Smile&layout=compact&theme=vision-friendly-dark" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Super-Smile&layout=compact" />
   </a>  
-</p>
+</p> -->
   
-<!-- <h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
-> Programming languages.
+> 
+
+Programming languages.
 <p>
   <a href="https://github.com/search?q=user%3Asenior-dev-1019+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3Asenior-dev-1019+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
@@ -101,7 +98,7 @@
     <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p> -->
+</p>
 
 <br/>
 
