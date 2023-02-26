@@ -84,7 +84,7 @@
     <a href="https://github.com/Super-Smile"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
     <a href="https://github.com/Super-Smile"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
         <a href="https://github.com/Super-Smile"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-404d59.svg?logo=laravel&logoColor=white"></a>
-        <a href="https://github.com/Super-Smile"><img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&Color=white"></a>
+        <a href="https://github.com/Super-Smile"><img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white"></a>
 
 </p>
 
