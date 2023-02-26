@@ -73,7 +73,7 @@ Programming languages.
 
 > Frameworks and libraries.
 <p>
-    <a href="https://github.com/Super-Smile"><img alt="React" src="https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white"></a>    
+    <a href="https://github.com/Super-Smile"><img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?logo=Angular&logoColor=white"></a>    
     <a href="https://github.com/Super-Smile"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="https://github.com/Super-Smile"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-404d59.svg?logo=laravel&logoColor=white"></a>
     <a href="https://github.com/Super-Smile"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
