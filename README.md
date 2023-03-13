@@ -7,7 +7,7 @@
 <meta name="full-stack"/>
 
 <h1 align="center">
-  Seasoned Full Stack Developer.</h1>
+  Seasoned Software Engineer</h1>
 
 <p align="left" style="font-family: Brush Script MT;"> <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="Super-Smile" /> </p>
 <p align="center" display="flex">
