@@ -42,69 +42,39 @@ Experienced Full-Stack Engineer with proficiency in developing high-quality soft
 
 ## Skills:
 
-Programming languages.
-<p>
-<a href="https://github.com/Super-Smile"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/Super-Smile"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-  <a href="https://github.com/Super-Smile"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/Super-Smile"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-        <a href="https://github.com/Super-Smile"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-<a href="https://github.com/Super-Smile"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-<a href="https://github.com/Super-Smile"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-  
-</p>
+- Languages
+  JavaScript, TypeScript, HTML, CSS, Go, Java, Python, SQL, Dart, GraphQL, Sass, PHP, Solidity
 
-> Frontend frameworks and libraries
-<p>
-    <a href="https://github.com/Super-Smile"><img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=Angular&logoColor=white"></a>    
-    <a href="https://github.com/Super-Smile"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="https://github.com/Super-Smile"><img alt="Vue" src="https://img.shields.io/badge/Vuejs-%2335495e.svg?logo=Vuedotjs&logoColor=%234FC08D"></a>
-    <a href="https://github.com/Super-Smile"><img alt="React Native" src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>    
-    <a href="https://github.com/Super-Smile"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
-    <a href="https://github.com/Super-Smile"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="https://github.com/Super-Smile"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
-   
-    
-> Backend frameworks 
-<p>
-    <a href="https://github.com/Super-Smile"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/Super-Smile"><img alt="NESTJS" src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=NESTJS&logoColor=white"></a>
-    <a href="https://github.com/Super-Smile"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-        <a href="https://github.com/Super-Smile"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-404d59.svg?logo=laravel&logoColor=white"></a>
-        <a href="https://github.com/Super-Smile"><img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white"></a>
-        <a href="https://github.com/Super-Smile"><img alt="Django" src="https://img.shields.io/badge/Django-%23DD0031.svg"></a>  
-        
+- Frameworks
+  Flutter, Angular, React Native, Django, Laravel,  Redux, Express.js, MUI (Material UI), Tailwind CSS, Next.js, Bootstrap, JSON Web Tokens (JWT), Svelte, NestJS, MUI CSS, Flask, Jest, Electron, Spring MVC
 
-</p>
+- Libraries/APIs
+  React, Node.js, Google Maps API, WebRTC, REST APIs, Vue, SendGrid API, Socket.IO, jQuery, GitHub API, Shopify API, D3.js, Camera API, Stripe, Stripe API, Stripe Connect, Web3.js, Chart.js, Google Merchant Center API, AWS Amplify, LeafletJS
 
+- Tools
+  Slack, GitHub, GitLab, Trello, Git, VS Code, SendGrid, Amazon Cognito, Jira, Amazon CloudWatch, Figma, Android Studio, Xcode, Bitbucket, Webpack
 
-> Databases and cloud hosting.
-<p>
-    <a href="https://github.com/Super-Smile"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="https://github.com/Super-Smile"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-    <a href="https://github.com/Super-Smile"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="https://github.com/Super-Smile"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
-    <a href="https://github.com/Super-Smile"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
-    <a href="https://github.com/Super-Smile"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-    <a href="https://github.com/Super-Smile"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
-    <a href="https://github.com/Super-Smile"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
-        <a href="https://github.com/Super-Smile"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-</p>
+- Paradigms
+  Agile, Scrum, Unit Testing, Test-driven Development (TDD), Mobile Development, REST, Microservices, Agile
 
-> Software and tools.
-<p>
-    <a href="https://github.com/Super-Smile"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="https://github.com/Super-Smile"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="https://github.com/Super-Smile"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
-    <a href="https://github.com/Super-Smile"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
-    <a href="https://github.com/Super-Smile"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-    <a href="https://github.com/Super-Smile"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="https://github.com/Super-Smile"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a>
-    <a href="https://github.com/Super-Smile"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="https://github.com/Super-Smile"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
+- Platforms
+  Google Cloud Platform (GCP), Firebase, Mailgun, Android, iOS, Shopify, Apache Arrow, Visual Studio Code, Heroku, Mobile, WordPress, Docker, Mapbox, AWS Lambda, BigCommerce, Amazon Web Services (AWS), Ubuntu, Azure, Netlify
+
+- Storage
+  MongoDB, MySQL, Databases, Amazon S3 (AWS S3), Google Cloud, PostgreSQL
+
+- Other
+
+  Web Project Management, IT Project Management, Technical Requirements, MERN Stack, API Integration, APIs, Front-end, Front-end Development, Axios, Software Design, Integration, WebSockets, Responsive Web Apps, matrix, eCommerce, Shopify Design, Shopify Customizations, Web Development, Full-stack, Architecture, Access Control, UI in context of a specific business problem, API Gateways, UI optimization, CTO, Web Search, Application State Management, Mobile App Development, Websites, Development, Back-end, Data Visualization, Dashboards, Software, Apps, User Interface (UI), Software Architecture, Technical Leadership, RESTful Services, Full-stack Development, Minimum Viable Product (MVP), Server-side Rendering, iOS Camera, Video Processing, Image Processing, API Documentation, eCommerce UI, Apple Pay, CI/CD Pipelines, Storybook, Pixel Perfect, Ethers.js, OAuth, Product Development, Team Leadership, Product Roadmaps, Reverse Engineering, Firebase Hosting, SVG
 
 ## Certifications :
+- Certification from HackerRank
+  - React       https://www.hackerrank.com/certificates/b7e5141a4379
+  - Angular     https://www.hackerrank.com/certificates/d3440ebe068f
+  - Rest API    https://www.hackerrank.com/certificates/ae65195ac2b2
+  - JavaScript  https://www.hackerrank.com/certificates/1d20387fa74b
+  - SQL         https://www.hackerrank.com/certificates/7659741cfb58 
+  - CSS         https://www.hackerrank.com/certificates/ac2d8c948fdb 
 
 <p align="center" display="flex">
   <a href="https://www.hackerrank.com/certificates/b7e5141a4379">
