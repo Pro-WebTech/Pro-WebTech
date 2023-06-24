@@ -27,14 +27,14 @@ Experienced Full-Stack Engineer with proficiency in developing high-quality soft
   -	Designed and developed custom swap forking PancakeSwap
   -	Implemented needed analysis, estimated timelines, and prepared project proposals
 
-- Senior Frontend Developer (Rentberry, 2022 - 2022)
+- Senior Frontend Developer (Rentberry, 2018 - 2020)
   - Translate the design of UX /UI into high quality web and mobile components such as dropdowns, carousels, buttons, checkboxes, input icons and so on
   -	Managed a high level of expertise in react-state management strategies, including redux, redux persist, and redux-saga
   -	Implemented following TDD using the Jest framework with Enzyme testing utilities
   -	Effective use of native HTML elements and custom tags to improve SEO optimization and application compliance ADA
   -	Participated in the initial wave of developers learning and implementing the React library.
 
-- Junior Frontend Developer (Upmarket Pets, )
+- Junior Frontend Developer (Upmarket Pets, 2016 - 2018)
   -	Created modular, responsive templates using modern CSS and JavaScript libraries.
   - Maintained graphic standards and branding throughout the product's interfaces.
   -	Designed the database and the Rest APIs for consistency, readability, performance, and future expansion
