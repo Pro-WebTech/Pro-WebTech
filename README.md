@@ -5,32 +5,60 @@
 <meta name="portfolio"/>
 <meta name="github"/>
 <meta name="full-stack"/>
-
-<h1 align="center">
-  Seasoned Software Engineer</h1>
-
 <p align="left" style="font-family: Brush Script MT;"> <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="Super-Smile" /> </p>
+
+## Senior Software Engineer
+
+Experienced Full-Stack Engineer with proficiency in developing high-quality software solutions and collaborating with cross-functional teams. Skilled in JavaScript, HTML, CSS, TypeScript, Go, Python, SQL, Dart, GraphQL, Sass, PHP, Solidity, WASM, Python 3, HTML5, CSS3 and Java; with a passion for continuous learning and staying up-to-date with emerging technologies.
+
+
+## Work History :
+
+- Senior Software Engineer (Nutech Advisors, 2022-2023)
+  -	Developed code according to common security practices and development patterns
+  -	Resolved technical issues for US customers using specific tools and APIs such as Nexio API, IDX Broker, GoHighLevel
+  - Created 200+ unit tests to verify user interface functionality, back-end processing, connectivity, and interactions with relational databases
+  - Maintained the CI/CD and Published React, React Native and Cocos SDKs
+  - Collaborated with mobile dev team on the agile/scrum board (Linear, Github)
+    
+- Frontend & Blockchain Developer (ClamIsland, 2021 - 2022)
+  - Managed the front-end development as a lead front-end developer
+  -	Implemented React, Typescript code to achieve maximum impact when creating event websites and landing pages
+  -	Designed and developed custom swap forking PancakeSwap
+  -	Implemented needed analysis, estimated timelines, and prepared project proposals
+
+- Senior Frontend Developer (Rentberry, 2022 - 2022)
+  - Translate the design of UX /UI into high quality web and mobile components such as dropdowns, carousels, buttons, checkboxes, input icons and so on
+  -	Managed a high level of expertise in react-state management strategies, including redux, redux persist, and redux-saga
+  -	Implemented following TDD using the Jest framework with Enzyme testing utilities
+  -	Effective use of native HTML elements and custom tags to improve SEO optimization and application compliance ADA
+  -	Participated in the initial wave of developers learning and implementing the React library.
+
+- Junior Frontend Developer (Upmarket Pets, )
+  -	Created modular, responsive templates using modern CSS and JavaScript libraries.
+  - Maintained graphic standards and branding throughout the product's interfaces.
+  -	Designed the database and the Rest APIs for consistency, readability, performance, and future expansion
+  -	Collaborated with the marketing department to determine organizational needs and design pages to meet goals 
+    
 <p align="center" display="flex">
   <a href="https://www.hackerrank.com/certificates/b7e5141a4379">
-    <img width="30%" src="hacker_react.png" />
+    <img width="15%" src="hacker_react.png" />
   </a>
   <a href="https://www.hackerrank.com/certificates/d3440ebe068f">
-    <img width="30%" src="hacker_angular.png" />
+    <img width="15%" src="hacker_angular.png" />
   </a>
    <a href="https://www.hackerrank.com/certificates/ae65195ac2b2">
-    <img width="30%" src="hacker_api.png" />
+    <img width="15%" src="hacker_api.png" />
   </a>
   
-</p>
-<p align="center" display="flex">
   <a href="https://www.hackerrank.com/certificates/1d20387fa74b">
-    <img width="30%" src="hacker_js.PNG" />
+    <img width="15%" src="hacker_js.PNG" />
   </a>
   <a href="https://www.hackerrank.com/certificates/7659741cfb58">
-    <img width="30%" src="hacker_sql.png" />
+    <img width="15%" src="hacker_sql.png" />
   </a>
   <a href="https://www.hackerrank.com/certificates/ac2d8c948fdb">
-    <img width="30%" src="hacker_css.PNG" />
+    <img width="15%" src="hacker_css.PNG" />
   </a>
   
 </p>
