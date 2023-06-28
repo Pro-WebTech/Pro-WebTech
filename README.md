@@ -76,6 +76,7 @@ Experienced Full-Stack Engineer with proficiency in developing high-quality soft
   - SQL         https://www.hackerrank.com/certificates/7659741cfb58 
   - CSS         https://www.hackerrank.com/certificates/ac2d8c948fdb 
 
+<!-- 
 <p align="center" display="flex">
   <a href="https://www.hackerrank.com/certificates/b7e5141a4379">
     <img width="30%" src="hacker_react.png" />
@@ -100,8 +101,7 @@ Experienced Full-Stack Engineer with proficiency in developing high-quality soft
 </p>
 
 
-
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/Super-Smile/github-readme-stats">
     <img
       height="150"
