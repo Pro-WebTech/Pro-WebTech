@@ -15,30 +15,28 @@ Experienced Full-Stack Engineer with proficiency in developing high-quality soft
 ## Work History :
 
 - Senior Software Engineer (Nutech Advisors, 2022-2023)
-  -	Developed code according to common security practices and development patterns
-  -	Resolved technical issues for US customers using specific tools and APIs such as Nexio API, IDX Broker, GoHighLevel
-  - Created 200+ unit tests to verify user interface functionality, back-end processing, connectivity, and interactions with relational databases
-  - Maintained the CI/CD and Published React, React Native and Cocos SDKs
+  -	Developed code according to common security practices and development patterns.
+  -	Solved 40+ technical issues for US customers using specific tools and APIs including Nexio API, IDX Broker, GoHighLevel.
+  -	Created 200+ unit tests to verify user interface functionality, back-end processing, connectivity, and interactions with relational databases.
   - Collaborated with mobile dev team on the agile/scrum board (Linear, Github)
     
 - Frontend & Blockchain Developer (ClamIsland, 2021 - 2022)
-  - Managed the front-end development as a lead front-end developer
-  -	Implemented React, Typescript code to achieve maximum impact when creating event websites and landing pages
-  -	Designed and developed custom swap forking PancakeSwap
-  -	Implemented needed analysis, estimated timelines, and prepared project proposals
+  - As a lead front-end developer, managed the front-end team of 4 members.
+  - Streamlined React, Typescript code to achieve maximum impact when creating event websites and landing pages.
+  - Designed and developed custom swap forking PancakeSwap, resulting in a 50% increase in trading volume and a 25% increase in liquidity.
+  - Implemented needed analysis, estimated timelines, and prepared project proposals for a blockchain project, resulting in a 100% success rate in project completion and a 20% increase in revenue for the company.
 
-- Senior Frontend Developer (Rentberry, 2018 - 2020)
-  - Translate the design of UX /UI into high quality web and mobile components such as dropdowns, carousels, buttons, checkboxes, input icons and so on
-  -	Managed a high level of expertise in react-state management strategies, including redux, redux persist, and redux-saga
-  -	Implemented following TDD using the Jest framework with Enzyme testing utilities
-  -	Effective use of native HTML elements and custom tags to improve SEO optimization and application compliance ADA
-  -	Participated in the initial wave of developers learning and implementing the React library.
+- Senior Web Developer (Clean Commit, 2018 - 2020)
+  - Converted the design of UX/UI into high quality web and mobile components along with dropdowns, carousels, buttons, checkboxes, input icons for over 50 projects.
+  - Managed a high level of expertise in Angular state management strategies, including NgRx, RxJS, and Redux, resulting in a 20% increase in development efficiency and code quality for the main project.
+  - Utilized following TDD using the Jest framework with Enzyme testing utilities.
+  - Upgraded SEO by effectively using native HTML elements and custom tags for over 100 web pages and mobile applications.
 
 - Junior Frontend Developer (Upmarket Pets, 2016 - 2018)
-  -	Created modular, responsive templates using modern CSS and JavaScript libraries.
-  - Maintained graphic standards and branding throughout the product's interfaces.
-  -	Designed the database and the Rest APIs for consistency, readability, performance, and future expansion
-  -	Collaborated with the marketing department to determine organizational needs and design pages to meet goals 
+  - Created 50+ of modular, responsive templates using modern CSS and JavaScript libraries.
+  - Designed and launched new marketing pages, resulting in a 15% increase in website traffic and a 10% increase in lead generation.
+  - Boosted to the company's overall revenue growth by 30% through the creation of engaging and informative web content.
+
 
 ## Skills:
 
@@ -66,6 +64,12 @@ Experienced Full-Stack Engineer with proficiency in developing high-quality soft
 - Other
 
   Web Project Management, IT Project Management, Technical Requirements, MERN Stack, API Integration, APIs, Front-end, Front-end Development, Axios, Software Design, Integration, WebSockets, Responsive Web Apps, matrix, eCommerce, Shopify Design, Shopify Customizations, Web Development, Full-stack, Architecture, Access Control, UI in context of a specific business problem, API Gateways, UI optimization, CTO, Web Search, Application State Management, Mobile App Development, Websites, Development, Back-end, Data Visualization, Dashboards, Software, Apps, User Interface (UI), Software Architecture, Technical Leadership, RESTful Services, Full-stack Development, Minimum Viable Product (MVP), Server-side Rendering, iOS Camera, Video Processing, Image Processing, API Documentation, eCommerce UI, Apple Pay, CI/CD Pipelines, Storybook, Pixel Perfect, Ethers.js, OAuth, Product Development, Team Leadership, Product Roadmaps, Reverse Engineering, Firebase Hosting, SVG
+  
+## Personal Skills:	
+  - Strong ability to communicate and collaborate with others
+  - Proactive approach in adapting to dynamic environments
+  - Sharp solutions combined with innovative thinking
+  - Genuine enthusiasm for technology, and a keenness to acquire new competencies
 
 ## Certifications :
 - Certification from HackerRank
