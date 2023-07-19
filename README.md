@@ -9,9 +9,11 @@
 
 # Senior Software Engineer
 
-Experienced Full-Stack Engineer with proficiency in developing high-quality software solutions and collaborating with cross-functional teams. Skilled in JavaScript, HTML, CSS, TypeScript, Go, Python, SQL, Dart, GraphQL, Sass, PHP, Solidity, WASM, Python 3, HTML5, CSS3 and Java; with a passion for continuous learning and staying up-to-date with emerging technologies.
+Experienced Full Stack Developer with a proven track record of 7 years in web and mobile app development, as well as expertise in blockchain & NFT development. 
+Demonstrated leadership skills by leading a frontend developer team for a $3M-funded Property Analysis Project, hailed as a "gold standard" by the client. 
+Possesses a diverse skill set, enabling success in web and mobile application development, with a focus on AI and Web3 integration. 
 
-
+<!-- 
 ## Work History :
 
 - Senior Software Engineer (Nutech Advisors, 2022-2023)
@@ -36,7 +38,7 @@ Experienced Full-Stack Engineer with proficiency in developing high-quality soft
   - Created 50+ of modular, responsive templates using modern CSS and JavaScript libraries.
   - Designed and launched new marketing pages, resulting in a 15% increase in website traffic and a 10% increase in lead generation.
   - Boosted to the company's overall revenue growth by 30% through the creation of engaging and informative web content.
-
+ -->
 
 ## Skills:
 
