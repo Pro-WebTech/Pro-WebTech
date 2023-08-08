@@ -1,4 +1,4 @@
-<meta name="awesome-portfolio"/>
+<!-- <meta name="awesome-portfolio"/>
 <meta title="awesome-portfolio"/>
 <meta description="awesome-portfolio"/>
 
@@ -12,7 +12,7 @@
 Experienced Full Stack Developer with a proven track record of 7 years in frontend development, as well as expertise in backend & API development. 
 Possesses a diverse skill set, enabling success in web and mobile application development, with a focus on AI and Web3 integration. 
 
-<!-- 
+
 ## Work History :
 
 - Senior Software Engineer (Nutech Advisors, 2022-2023)
@@ -37,7 +37,7 @@ Possesses a diverse skill set, enabling success in web and mobile application de
   - Created 50+ of modular, responsive templates using modern CSS and JavaScript libraries.
   - Designed and launched new marketing pages, resulting in a 15% increase in website traffic and a 10% increase in lead generation.
   - Boosted to the company's overall revenue growth by 30% through the creation of engaging and informative web content.
- -->
+
 
 ## Skills:
 
@@ -87,7 +87,7 @@ Possesses a diverse skill set, enabling success in web and mobile application de
   - JavaScript  https://www.hackerrank.com/certificates/1d20387fa74b
   - SQL         https://www.hackerrank.com/certificates/7659741cfb58 
   - CSS         https://www.hackerrank.com/certificates/ac2d8c948fdb 
-
+ -->
 <!-- 
 <p align="center" display="flex">
   <a href="https://www.hackerrank.com/certificates/b7e5141a4379">
