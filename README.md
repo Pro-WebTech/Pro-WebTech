@@ -1,4 +1,4 @@
-<!-- <meta name="awesome-portfolio"/>
+<meta name="awesome-portfolio"/>
 <meta title="awesome-portfolio"/>
 <meta description="awesome-portfolio"/>
 
@@ -6,7 +6,7 @@
 <meta name="github"/>
 <meta name="full-stack"/>
 <p align="left" style="font-family: Brush Script MT;"> <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="Super-Smile" /> </p>
-
+<!-- 
 # Senior Software Engineer
 
 Experienced Full Stack Developer with a proven track record of 7 years in frontend development, as well as expertise in backend & API development. 
