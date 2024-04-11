@@ -6,8 +6,8 @@
 <meta name="github"/>
 <meta name="full-stack"/>
 <p align="left" style="font-family: Brush Script MT;"> <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="Super-Smile" /> </p>
-<!-- <img src="/prowebtechno1.png" alt="Alt text" style="width:100%;">
-<!--  -->
+<!-- <img src="/prowebtechno1.png" alt="Alt text" style="width:100%;"> -->
+<!--  
 # Senior Software Engineer
 
 Experienced Full Stack Developer with a proven track record of 7 years in frontend development, as well as expertise in backend & API development. 
