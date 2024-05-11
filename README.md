@@ -7,7 +7,7 @@
 <meta name="full-stack"/>
 <p align="left" style="font-family: Brush Script MT;"> <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="Super-Smile" /> </p>
 <!-- <img src="/prowebtechno1.png" alt="Alt text" style="width:100%;"> -->
-<h1 align= "center">Senior AI Full Stack Developer</h1>
+<h1 align= "center">Senior Full Stack Developer</h1>
 <!--  
 
 Experienced Full Stack Developer with a proven track record of 7 years in frontend development, as well as expertise in backend & API development. 
